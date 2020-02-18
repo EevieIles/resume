@@ -1,0 +1,82 @@
+.topbox {
+  background-color:#c7f0db;
+margin:0;
+position:relative;
+padding-top:100px;
+}
+
+body {
+  background-color: #40e0d0;
+  margin:0px;
+  text-align: center;
+
+}
+
+hr {
+  border-style:dotted none none;
+  width: 5%;
+  border-color:#f1fcfc;
+  border-width:5px;
+}
+
+h1{
+  font-family: 'Pacifico', cursive;
+  font-size:90px;
+  color:#633a82;
+  margin:50px auto 0 auto;
+}
+
+h2 {
+  font-family: 'Pacifico', cursive;
+  color:#633a82;
+  font-size: 35px;
+
+}
+h3 {
+  font-family: 'Rasa', serif;
+  color: #633a82;
+}
+
+p{
+  font-family: 'Abhaya Libre', serif;
+}
+
+.cloud1{
+position:relative;
+margin-left:300px;
+margin-top:10px;
+}
+
+.cloud2 {
+  position:absolute;
+  top:300px;
+  left:400px;
+}
+
+#profile {
+  border-radius: 10%;
+  max-width: 10%;
+  height:auto;
+  padding-top:8px;
+  line-height:2;
+}
+
+.skill-row{
+  max-width: 50%;
+  height:auto;
+  margin: 100px auto 100px auto;
+  text-align:left;
+}
+
+.paint {
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+
+.code {
+  width:25%;
+  float: right;
+  margin-left:30px;
+
+}
